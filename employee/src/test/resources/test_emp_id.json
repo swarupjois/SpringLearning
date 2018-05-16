@@ -1,0 +1,13 @@
+{
+	"id": 111,
+	"name": "name",
+	"email": "email",
+	"mobile": 8888,
+	"jobTitle": "job",
+	"address": "address",
+	"salary": 5000,
+	"dob": "dob",
+	"gender": "gender",
+	"bloodGroup": "blood group"
+}
+	
